@@ -1,2 +1,2 @@
 # alx-interview
-Alx-School interview prepration
+Alx-School interview prep
